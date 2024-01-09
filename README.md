@@ -3,6 +3,7 @@
 ### Description
 
 The purpose of this project is to code a small data exchange program using UNIX signals.
+
 It is a simple communication program in the form of a client and a server.
 The client sends a message to the server, which receives and prints it on the screen.
 
