@@ -10,12 +10,12 @@ For more detail: The subject pdf is inside of the project folder.
 
 ### How to run
 
-1.
+1. compile and create the excutables:
 ```bash
 make
 ```
 
-2. Run the server and copy its PID to the client with the message you want to send
+2. Run the server and copy its PID to the client with the message you want to send:
 ```bash
 ./server
 ```
