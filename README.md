@@ -10,16 +10,15 @@ For more detail: The subject pdf is inside of the project folder.
 
 ### How to run
 
-1.  ```bash
+1.
+```bash
 make
 ```
 
 2. Run the server and copy its PID to the client with the message you want to send
-
-  ```bash
+```bash
 ./server
 ```
-  
 ```bash
 ./client <SERVER_PID> <Your message here>
 ```
